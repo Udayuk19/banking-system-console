@@ -20,4 +20,5 @@
    javac *.java
 
 2. Run the main class:
-    java Main
+    ```bash
+   javac *.java
