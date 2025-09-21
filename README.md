@@ -22,3 +22,9 @@
 2. Run the main class:
     ```bash
    java Main
+
+## Example
+<img width="771" height="476" alt="Screenshot 2025-09-21 164233" src="https://github.com/user-attachments/assets/3fbae90c-38d6-40a7-8192-8f11afd6e073" />
+
+<img width="764" height="250" alt="image" src="https://github.com/user-attachments/assets/d9710af5-9bea-4adc-a8f3-e3c224de319a" />
+
