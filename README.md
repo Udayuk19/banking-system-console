@@ -21,4 +21,4 @@
 
 2. Run the main class:
     ```bash
-   javac *.java
+   java Main
